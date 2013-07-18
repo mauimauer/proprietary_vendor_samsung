@@ -19,6 +19,10 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/proprietary/system/bin/smdexe:system/bin/smdexe \
     $(LOCAL_PATH)/proprietary/system/bin/geomagneticd:system/bin/geomagneticd \
     $(LOCAL_PATH)/proprietary/system/bin/orientationd:system/bin/orientationd \
+    $(LOCAL_PATH)/proprietary/system/bin/bcm_dut:system/bin/bcm_dut \
+    $(LOCAL_PATH)/proprietary/system/bin/brcm_patchram_plus:system/bin/brcm_patchram_plus \
+    $(LOCAL_PATH)/proprietary/system/bin/brcm_poke_helper:system/bin/brcm_poke_helper \
+    $(LOCAL_PATH)/proprietary/system/bin/LE_dut:system/bin/LE_dut \
     $(LOCAL_PATH)/proprietary/system/bin/gpsd:system/bin/gpsd
 
 PRODUCT_COPY_FILES += \
